@@ -125,17 +125,15 @@ url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
             <description>You can safely consume raw or rotting food and have advantage on Constitution saving throws against disease and ingested poison.</description>
         </sheet>
 	</element>
-</elements>
 	<element name="Gnoll Subrace" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_GNOLL_SUBRACE">
 		<description>
-			<p>Three main subraces of gnoll populate the worlds of D&amp;D: Striped, spotted, and brown. Choose one of these subraces.</p>
+			<p>Three main subraces of gnoll populate the worlds of DnD: Striped, spotted, and brown. Choose one of these subraces.</p>
 		</description>
 		<sheet display="false"/>
 		<rules>
 			<select type="Sub Race" name="Gnoll Subrace" supports="Gnoll" />
 		</rules>
 	</element>
-
 	<element name="Striped Gnoll" type="Sub Race" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_SUB_RACE_STRIPED_GNOLL">
 		<supports>Gnoll</supports>
 		<description>
@@ -161,7 +159,6 @@ url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
 			<description>Your feral adrenaline can give you a surge of energy. Once per turn, when you use your Action to take the Dash action, you can increase your movement speed by 60 feet instead of the normal amount.</description>
 		</sheet>
 	</element>
-
     	<element name="Gnoll Subrace" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_GNOLL_SUBRACE">
 		<description>
 			<p>Three main subraces of gnoll populate the worlds of D&amp;D: Striped, spotted, and brown. Choose one of these subraces.</p>
@@ -209,15 +206,13 @@ url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_SURVIVAL" />
 		</rules>
 	</element>
-
 	<element name="Spotted gnoll" type="Sub Race" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_SUB_RACE_SPOTTED_GNOLL">
 		<supports>Gnoll</supports>
 		<description>
 			<p>Spotted Gnolls are bigger, smarter, and more cunning compared to regular gnolls. Nearly every Gnoll Pack Lord is a Spotted Gnoll.</p>
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 2.</p>
 			<p class="indent"><strong><em>Incite Rampage.</em></strong> Born to be a leader, you can command your allies to strike when you see fit. As an action or by substituting one of your attacks when you take the Attack action on your turn, you can allow a friendly creature within 30 feet of you that can see and hear you to use their reaction and make one weapon attack against a creature within 5 feet of them. Once you have used this ability, you must finish a short or long rest before you can use it again.</p>
-            <p class="indent"><strong><em>Listen to the boss.</em></strong>You are proficient in Persuasion.
-</p>   
+            <p class="indent"><strong><em>Listen to the boss.</em></strong>You are proficient in Persuasion.</p>   
         </description>
 		<sheet display="false"/>
 		<setters>
