@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Gnoll</name>
+		<update version="1.0.0">
+			<file name="gnoll.index" url="https://raw.githubusercontent.com/wobblycake/GNOLL-RACE/master/gnoll.index" />
+		</update>
+	</info>
+	<files>
+		<file name="gnollrace.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-RACE/master/gnollrace.xml" />
+	</files>
+</index>
