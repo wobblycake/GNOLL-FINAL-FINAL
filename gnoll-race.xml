@@ -56,7 +56,7 @@ url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
 			<br />
             <span class="feature">Scavenger.</span>You can safely consume raw or rotting food and have advantage on Constitution saving throws against disease and ingested poison.
 			<br />
-            <span class="feature">Subraces.</span>There are 3 subraces of gnoll that exist: Striped, Spotted, and Brown.</p>
+            <span class="feature">Subraces.</span>There are 3 subraces of gnoll that exist: Striped, Spotted, and Brown.
 	    </description>
         <sheet display="false" />
 		<setters>
