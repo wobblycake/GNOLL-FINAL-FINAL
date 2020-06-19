@@ -5,7 +5,7 @@
         <description>Gnoll player race</description>
         <author 
 url="https://www.artstation.com/vulturecorpse">vulturecorpse</author>
-        <update version="0.0.10">
+        <update version="0.0.9">
             <file name= "gnoll-race.xml"
 url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
         </update>
