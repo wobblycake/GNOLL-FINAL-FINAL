@@ -125,9 +125,6 @@ url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
             <description>You can safely consume raw or rotting food and have advantage on Constitution saving throws against disease and ingested poison.</description>
         </sheet>
 	</element>
-</elements>
-
-        </element>
 	<element name="Gnoll Subrace" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_GNOLL_SUBRACE">
 		<description>
 			<p>Three main subraces of gnoll populate the worlds of D&amp;D: Striped, spotted, and brown. Choose one of these subraces.</p>
