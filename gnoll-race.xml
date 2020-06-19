@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Gnoll</name>
+        <description>Gnoll player race</description>
+        <author 
+url="https://www.artstation.com/vulturecorpse">vulturecorpse</author>
+        <update version="0.0.7">
+            <file name= "gnoll-race.xml"
+url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
+        </update>
+    </info>
+
+    <element name="Gnoll" type="Race" sources="DND Wiki, u/CrazyCoolCelt, GMbinder-Monco" id="ID_VULC_RACE_GNOLL">
+        <description>
+                <p class="flavor">Gnolls are infamous among races such as humans and elves for their brutality and demonic heritage. For the most part, they aren't wrong, they tend to be rather aggressive and are often mistrusted and avoided. the collective identity of the gnolls is as contentious a subject among scholars as it is among the gnolls themselves. While they are commonly known for their fierce demeanors, and love of the hunt; the venturesome, opportunistic, and competitive nature of the gnolls ensures that most clans exist largely independent and distinct from one other. It is by this separation that many packs develop their own, eccentric cultures and that the boldest among them may pursue faith and purpose apart from their people's inherited allegiance to the demon lord Yeenoghu, the abyssal Prince of Gnolls. Many gnoll packs are indeed aggressive and have a demonic side to their affairs. They are known for their pack-driven instincts, and to a gnoll, the pack always comes first, it is the most important thing to a gnoll.</p>
+            <h4>PHYSICAL DESCRIPTION.</h4>
+            <p>A gnoll looks much like a humanoid hyena and shares many traits with the animal. They are strong, tall, and lean and covered with a thick coat of fur, which generally ranges from light to dark brown. Depending on the subspecies, they might have stripes or spots.Though they are not obligate carnivores, it is not uncommon for a gnoll to subsist solely on meat. Like the hyenas they resemble, gnolls possess strong jaws and are capable of consuming almost every part of their prey, including teeth and bones. Despite their musculature, they move rather quickly, easily outpacing most other races. Gnolls also outpace most other races in how quickly they mature. A gnoll matures by the age of 5 and lives to be about 40. Oddly a gnoll's vitality will remain with them until very soon before their natural death. </p>
+			<p></p>
+			<p>Gnolls have reflective eyes that are typically bright green or yellow. They also have a thick coat of fur, which is generally light brown or dark brown. Some gnolls, especially striped gnolls, possess crest like manes of hair going from their head down their spine which rise up when they become frightened or angry, similar to to the feathered crest of a cockatoo or the hairs on a cats back. </p>
+			<p></p>
+			<p>Adding to other races distrust about gnolls, occasionally a gnoll's demonic ancestry will result in peculiar physical traits. This might be manifested in the claws of gnoll claw fighters or an abnormal eye or coat colors. </p>
+            <h4>PACK INSTINCT</h4>
+            <p>Gnolls are social creatures, and the pack instinct plays a powerful role in their lives. The bond of the pack is essential to all gnolls and, while they may occasionally squabble to establish lines of dominance, gnolls make for steadfast allies. Though they generally prove wary of strangers, gnolls are seldom solitary and those that are separated from their kin will usually seek surrogate packs. The often aggressive behavior and fearsome appearance of the hyenafolk can be difficult to deal with, yet their pack instincts are strong. Should you earn one's rare trust, you will find the kinship of a gnoll to be a very powerful bond. While there may be struggles within packs to determine who the alpha is, throughout these conflicts, both sides remain allies. To gnolls, the good of the pack is far more important than any personal glory. As a result, gnolls can be loyal to a fault to their chosen pack. Despite being competetive by nature, gnolls strive endlessly to prevent their packmates from being harmed, even taking an injury themselves. Furthermore, a gnoll's mind is undeniably primal. They are natural predators and love the thrill and challenge of the hunt. This has resulted in a few traits in most gnolls. For the most part, gnolls prefer the wilds to any sort of urban area, though there are exceptions who see a city as a unique form of wilderness. Moreover, gnolls typically avoid diplomacy in favor of intimidating an answer out of others. It is simpler that way.</p>
+            <h4>WHY BECOME AN ADVENTURER?</h4>
+            <p>Most gnolls would not survive on their own; separation from the pack means you must fend for yourself. When considering the gnoll for your character’s race, ask yourself the following questions: Why is this gnoll away from their pack and how did they get in that situation? How have they survived this far before the adventure began? How do they feel about non-gnolls; are they a compassionate misfit or do they hold back every urge to eat each infant on site? You may have come from a nomadic tribe of shamanistic hunters, wild and true to your nature; you may have belonged to a roaming clan of marauders or a congregation of wandering trappers and traders; or perhaps you were seperated from your kin entirely and have come to live among common folk either in fellowship or in servitude. Whatever your origins, remember that the pack instinct is strong in gnolls and that it is unlikely for one to leave his or her pack by choice. Furthermore, consider that most gnolls share an ancient bond with Yeenoghu; you may choose not to act upon your demonic inclinations, but they are nonetheless a part of your nature.</p>
+            <h4>GNOLL NAMES</h4>
+			<p>Gnoll names are usually short and comprised of the same harsh sounds of the gnoll language- often being spoken like a sort of growl or bark. Since they are very hard for other races to pronounce they are often given nicknames, the gnoll is often given a typical pet name such as "Fido" at first as other races see gnolls as feral animals.</p>
+			<b>Male Names: </b>Dagnyr, Dhyrn, Doryc, Garr, Gurn, Gnasc, Gorak, Grakk, Gyrryn, Harr, Hattak, Hyrn, Ilekk, Ishkr, Keghet, Knaag, Kraff, Krik, Kurr, Kurshak, Kylm, Laskh, Lhyr, Rolk, Shar, Thrakk, Thyrn, Urg, Varr, Vas, Vaszi, Yekk
+			<br/>
+			<b>Female Names: </b>Dagnyra, Dyrna, Garra, Gnara, Gorza, Grakka, Harra, Hruthna, Ishka, Kaskya, Ketta, Krshia, Kylma, Lhyra, Malla, Mrna, Mrsha, Nysha, Osyka, Othna, Saga, Srnya, Shara, Vara, Vasza, Vedya, Vetza, Yrna, Zudya
+            <h4>GNOLL TRAITS</h4>
+			<p>Your gnoll character gains the follow characteristics</p>
+			<br/>
+			<span class="feature">Ability Score Increase.</span>Your Strength score increases by 2 and your Dexterity score increases by 1.
+			<br />
+			<span class="feature">Age.</span>Gnolls age noticeably faster than most humanoids, they mature at 5 years and seldom live beyond 40 years due to their aggressive nature.
+			<br />
+			<span class="feature">Alignment.</span>Being highly opportunistic, gnolls are usually chaotic or neutral evil, though exceptions exist. These outliers either flee their tribe and attempt to assimilate into civilization or are feasted upon by their brethren at the first sign of compassion being shown. Furthermore, their fiendish origins and common disregard for other humanoids lead most to be innately evil- though a rare few lacking faith in Yeenoghu may adopt neutral alignments. Regardless, gnolls who stay true to their pack instincts are generally inclined to abide by the ideals of their chosen companions.            
+			<br />
+			<span class="feature">Size.</span>Gnolls generally stand around 7 feet in height and weigh between 230 and 280lbs. Most gnolls exhibit a slightly hunched posture due to their animalistic physique. Your size is medium.
+			<br />
+			<span class="feature">Speed.</span>Your base walking speed is 30 feet.
+			<br />
+			<span class="feature">Bite.</span>Your bite is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike
+			<br />
+			<span class="feature">Rampage.</span>When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an attack with your Bite trait
+			<br />
+			<span class="feature">Having a chuckle with the lads.</span>Hyenas tend to be wherever Gnolls are and often become domesticated by their tribes to be used as guard “dogs”, hunting companions, and, in the case of Giant Hyenas, mounts and beasts of burden. Because of this relationship, through sounds and gestures, you can communicate simple ideas with hyenas.
+			<br />
+			<span class="feature">Languages.</span>You can speak, read, and write Common and Gnoll. The Gnoll language is incredibly difficult for non-Gnolls to understand as it primarily consists of yips, yaps, chuckles, and snarls with some references and influences from the Abyssal language. You can also understand, but not speak, read, or write Abyssal.
+			<br />
+            <span class="feature">Darkvision.</span>Being moderately nocturnal, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+			<br />
+            <span class="feature">Frightful appearence.</span>You gain proficiency in the Intimidation skill.
+			<br />
+            <span class="feature">Scavenger.</span>You can safely consume raw or rotting food and have advantage on Constitution saving throws against disease and ingested poison.
+			<br />
+            <span class="feature">Subraces.</span>There are 3 subraces of gnoll that exist: Striped, Spotted, and Brown.
+	    </description>
+        <sheet display="false" />
+		<setters>
+			<set name="names" type="male">Dagnyr, Dhyrn, Doryc, Garr, Gurn, Gnasc, Gorak, Grakk, Gyrryn, Harr, Hattak, Hyrn, Ilekk, Ishkr, Keghet, Knaag, Kraff, Krik, Kurr, Kurshak, Kylm, Laskh, Lhyr, Rolk, Shar, Thrakk, Thyrn, Urg, Varr, Vas, Vaszi, Yekk</set>
+			<set name="names" type="female">Dagnyra, Dyrna, Garra, Gnara, Gorza, Grakka, Harra, Hruthna, Ishka, Kaskya, Ketta, Krshia, Kylma, Lhyra, Malla, Mrna, Mrsha, Nysha, Osyka, Othna, Saga, Srnya, Shara, Vara, Vasza, Vedya, Vetza, Yrna, Zudya </set>
+			<set name="names-format">{{name}} “{{virtue}}”</set>
+			<set name="height" modifier="2d8">5'11"</set>
+			<set name="weight" modifier="2d4">210 lb.</set>
+		</setters>
+		<rules>
+			<stat name="dexterity" value="1" requirements="!ID_INTERNAL_GRANTS_GNOLL_SUBRACE" />
+			<stat name="strength" value="2" requirements="!ID_INTERNAL_GRANTS_GNOLL_SUBRACE"/>
+			<stat name="innate speed" value="30" bonus="base"/>
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+            <grant type="Language" id="ID_LANGUAGE_ABYSSAL" />
+			<grant type="Language" id="ID_MM_LANGUAGE_GNOLL" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_BITE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_RAMPAGE" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HAVING_A_CHUCKLE_WITH_THE_LADS" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SCAVENGER" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FRIGHTFUL_APPEARANCE" />
+        </rules>
+	</element>
+	<element name="Bite" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_BITE">
+		<description>
+			<p>Your bite is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike</p>
+		</description>
+		<sheet>
+			<description>Your bite is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike</description>
+		</sheet>
+	</element>
+    <element name="Rampage" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_RAMPAGE">
+        <description>
+            <p>When you reduce a creature to 0 hit points with a melee attack on your turn, you may, use a bonus action to move up to half your speed and make a bite attack.</p>
+        </description>
+        <sheet>
+            <description>When you reduce a creature to 0 hit points with a melee attack on your turn, you may, use a bonus action to move up to half your speed and make a bite attack.</description>
+        </sheet>
+	</element>
+    <element name="Frightful Appearance" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_FRIGHTFUL_APPEARANCE">
+        <description>
+            <p>You are proficient in the Intimidation skill.</p>
+        </description>
+        <sheet display="false">
+            <description>You are proficient in the Intimidation skill.</description>
+        </sheet>
+        <rules>
+            <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" />
+        </rules>
+	</element>
+    <element name="Having a chuckle with the lads" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_HAVING_A_CHUCKLE_WITH_THE_LADS">
+        <description>
+            <p>Hyenas tend to be wherever Gnolls are and often become domesticated by their tribes to be used as guard “dogs”, hunting companions, and, in the case of Giant Hyenas, mounts and beasts of burden. Because of this relationship, through sounds and gestures, you can communicate simple ideas with hyenas.</p>
+        </description>
+        <sheet>
+            <description>Hyenas tend to be wherever Gnolls are and often become domesticated by their tribes to be used as guard “dogs”, hunting companions, and, in the case of Giant Hyenas, mounts and beasts of burden. Because of this relationship, through sounds and gestures, you can communicate simple ideas with hyenas.</description>
+        </sheet>
+	</element>
+    <element name="Scavenger" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_SCAVENGER">
+        <description>
+            <p>You can safely consume raw or rotting food and have advantage on Constitution saving throws against disease and ingested poison.</p>
+        </description>
+        <sheet>
+            <description>You can safely consume raw or rotting food and have advantage on Constitution saving throws against disease and ingested poison.</description>
+        </sheet>
+	</element>
+	<element name="Gnoll Subrace" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_GNOLL_SUBRACE">
+		<description>
+			<p>Three main subraces of gnoll populate the worlds of DnD: Striped, spotted, and brown. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false"/>
+		<rules>
+			<select type="Sub Race" name="Gnoll Subrace" supports="Gnoll" />
+		</rules>
+	</element>
+	<element name="Striped Gnoll" type="Sub Race" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_SUB_RACE_STRIPED_GNOLL">
+		<supports>Gnoll</supports>
+		<description>
+			<p>Striped Gnolls tend to be shorter than most gnolls but are capable of amazing bursts of speed. Often earning the rank of “Beast Tamer”, specimens of this breed of Gnoll tend to be the best with animals are often assigned as the tamer and trainer for the animals who hunt together with their pack. Gnolls that have left their gnoll pack often live with a pack of animals instead, when their "pack" is made up of other races they're usually the closest with any animal that might be part of the "pack".</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 2.</p>
+			<p class="indent"><strong><em>Sudden Rush.</em></strong> Your feral adrenaline can give you a surge of energy. Once per turn, when you use your Action to take the Dash action, you can increase your movement speed by 60 feet instead of the normal amount.</p>
+		</description>
+		<sheet display="false"/>
+		<setters>
+			<set name="height" modifier="2d4">5'</set>
+			<set name="weight" modifier="2d4">180 lb.</set>
+		</setters>
+		<rules>
+			<stat name="Dexterity" value="2" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_SUDDEN_RUSH" />
+		</rules>
+	</element>
+	<element name="Sudden Rush" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_SUDDEN_RUSH">
+		<description>
+			<p>Your feral adrenaline can give you a surge of energy. Once per turn, when you use your Action to take the Dash action, you can increase your movement speed by 60 feet instead of the normal amount.</p>
+		</description>
+		<sheet display="false">
+			<description>Your feral adrenaline can give you a surge of energy. Once per turn, when you use your Action to take the Dash action, you can increase your movement speed by 60 feet instead of the normal amount.</description>
+		</sheet>
+	</element>
+    	<element name="Gnoll Subrace" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_GNOLL_SUBRACE">
+		<description>
+			<p>Three main subraces of gnoll populate the worlds of D&amp;D: Striped, spotted, and brown. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false"/>
+		<rules>
+			<select type="Sub Race" name="Gnoll Subrace" supports="Gnoll" />
+		</rules>
+	</element>
+
+	<element name="Brown Gnoll" type="Sub Race" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_SUB_RACE_BROWN_GNOLL">
+		<supports>Gnoll</supports>
+		<description>
+			<p>Brown Gnolls are the most common Gnolls and make up the bulk of a tribe’s forces. Often treated poorly by higher ranks, Brown Gnolls survive off of whatever scraps or refuse they are able to eat. The weakest among them usually become food for the pets in the pack.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Constitution score increases by 2</p>
+			<p class="indent"><strong><em>Serrated and Gnarled Teeth.</em></strong> Your jagged and vicious teeth can hinder the recovery and movement of your foes. When you hit a creature with your bite attack, you can force that creature to make a Constitution saving throw. If it fails, for the next hour, their speed is reduced by 10 feet and any hit points it recovers within are halved. Once you use this feature you cannot use it again until you finish a short or long rest.</p>
+		    <p class="indent"><strong><em>Among the Dregs</em></strong>You are proficient in survival.</p>
+        </description>
+		<sheet display="false"/>
+		<setters>
+			<set name="height" modifier="2d4">5'9"</set>
+			<set name="weight" modifier="2d4">210 lb.</set>
+		</setters>
+		<rules>
+			<stat name="Constitution" value="2" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_SERRATED_AND_GNARLED_TEETH" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_AMONG_THE_DREGS" />
+		</rules>
+	</element>
+	<element name="Serrated and Gnarled Teeth" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_SERRATED_AND_GNARLED_TEETH">
+		<description>
+			<p>Your jagged and vicious teeth can hinder the recovery and movement of your foes. When you hit a creature with your bite attack, you can force that creature to make a Constitution saving throw. If it fails, for the next hour, their speed is reduced by 10 feet and any hit points it recovers within are halved. Once you use this feature you cannot use it again until you finish a short or long rest.</p>
+		</description>
+		<sheet display="false">
+			<description>Your jagged and vicious teeth can hinder the recovery and movement of your foes. When you hit a creature with your bite attack, you can force that creature to make a Constitution saving throw. If it fails, for the next hour, their speed is reduced by 10 feet and any hit points it recovers within are halved. Once you use this feature you cannot use it again until you finish a short or long rest.</description>
+		</sheet>
+        </element>
+	<element name="Among the Dregs" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_AMONG_THE_DREGS">
+		<description>
+			<p>You are proficient in Survival.</p>
+		</description>
+		<sheet display="false">
+			<description>You are proficient in Survival.</description>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_SURVIVAL" />
+		</rules>
+	</element>
+	<element name="Spotted gnoll" type="Sub Race" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_SUB_RACE_SPOTTED_GNOLL">
+		<supports>Gnoll</supports>
+		<description>
+			<p>Spotted Gnolls are bigger, smarter, and more cunning compared to regular gnolls. Nearly every Gnoll Pack Lord is a Spotted Gnoll.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 2.</p>
+			<p class="indent"><strong><em>Incite Rampage.</em></strong> Born to be a leader, you can command your allies to strike when you see fit. As an action or by substituting one of your attacks when you take the Attack action on your turn, you can allow a friendly creature within 30 feet of you that can see and hear you to use their reaction and make one weapon attack against a creature within 5 feet of them. Once you have used this ability, you must finish a short or long rest before you can use it again.</p>
+            <p class="indent"><strong><em>Listen to the boss.</em></strong>You are proficient in Persuasion.</p>   
+        </description>
+		<sheet display="false"/>
+		<setters>
+			<set name="height" modifier="2d4">6'5"</set>
+			<set name="weight" modifier="2d4">250 lb.</set>
+		</setters>
+		<rules>
+			<stat name="charisma" value="2" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_GNOLL_INCITE_RAMPAGE" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_LISTEN_TO_THE_BOSS" />
+		</rules>
+	</element>
+	<element name="Incite Rampage" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_GNOLL_INCITE_RAMPAGE">
+		<description>
+			<p>Born to be a leader, you can command your allies to strike when you see fit. As an action or by substituting one of your attacks when you take the Attack action on your turn, you can allow a friendly creature within 30 feet of you that can see and hear you to use their reaction and make one weapon attack against a creature within 5 feet of them. Once you have used this ability, you must finish a short or long rest before you can use it again.</p>
+		</description>
+		<sheet display="false">
+			<description>Born to be a leader, you can command your allies to strike when you see fit. As an action or by substituting one of your attacks when you take the Attack action on your turn, you can allow a friendly creature within 30 feet of you that can see and hear you to use their reaction and make one weapon attack against a creature within 5 feet of them. Once you have used this ability, you must finish a short or long rest before you can use it again.</description>
+		</sheet>
+        </element>
+	<element name="Keep the Runts in Line" type="Racial Trait" source="Crazy Cool Celt's Bigass Race Compendium for 5e" id="ID_RACIAL_TRAIT_LISTEN_TO_THE_BOSS">
+		<description>
+			<p>You are proficient in Persuasion.</p>
+		</description>
+		<sheet display="false">
+			<description>You are proficient in Persuasion.</description>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERSUASION" />
+		</rules>
+	</element>
+</elements>
