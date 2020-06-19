@@ -5,7 +5,7 @@
         <description>Gnoll player race</description>
         <author 
 url="https://www.artstation.com/vulturecorpse">vulturecorpse</author>
-        <update version="0.0.6">
+        <update version="0.0.7">
             <file name= "gnoll-race.xml"
 url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
         </update>
@@ -175,7 +175,7 @@ url="https://github.com/wobblycake/GNOLL-FINAL-FINAL"/>
 			<p>Brown Gnolls are the most common Gnolls and make up the bulk of a tribe’s forces. Often treated poorly by higher ranks, Brown Gnolls survive off of whatever scraps or refuse they are able to eat. The weakest among them usually become food for the pets in the pack.</p>
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Constitution score increases by 2</p>
 			<p class="indent"><strong><em>Serrated and Gnarled Teeth.</em></strong> Your jagged and vicious teeth can hinder the recovery and movement of your foes. When you hit a creature with your bite attack, you can force that creature to make a Constitution saving throw. If it fails, for the next hour, their speed is reduced by 10 feet and any hit points it recovers within are halved. Once you use this feature you cannot use it again until you finish a short or long rest.</p>
-		    <p class="indent"><strong><em>Among the Dregs</em></strong>You are proficient in survival.
+		    <p class="indent"><strong><em>Among the Dregs</em></strong>You are proficient in survival.</p>
         </description>
 		<sheet display="false"/>
 		<setters>
