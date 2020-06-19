@@ -3,10 +3,10 @@
 	<info>
 		<name>Gnoll</name>
 		<update version="1.0.0">
-			<file name="gnoll.index" url="https://raw.githubusercontent.com/wobblycake/GNOLL-RACE/master/gnoll.index" />
+			<file name="gnoll.index" url="https://raw.githubusercontent.com/wobblycake/GNOLL-FINAL-FINAL/master/gnoll.index" />
 		</update>
 	</info>
 	<files>
-		<file name="gnollrace.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-RACE/master/gnollrace.xml" />
+		<file name="gnollrace.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-FINAL-FINAL/master/gnollrace.xml" />
 	</files>
 </index>
