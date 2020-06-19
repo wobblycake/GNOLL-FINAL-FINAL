@@ -60,7 +60,7 @@ url="https://raw.githubusercontent.com/wobblycake/gnoll-race.xml/master/gnoll-ra
             <span class="feature">Subraces.</span>There are 3 subraces of gnoll that exist: Striped, Spotted, and Brown.
 			<br />
 			</p>
-		</description>
+	</description>
         <sheet display="false" />
 		<setters>
 			<set name="names" type="male">Dagnyr, Dhyrn, Doryc, Garr, Gurn, Gnasc, Gorak, Grakk, Gyrryn, Harr, Hattak, Hyrn, Ilekk, Ishkr, Keghet, Knaag, Kraff, Krik, Kurr, Kurshak, Kylm, Laskh, Lhyr, Rolk, Shar, Thrakk, Thyrn, Urg, Varr, Vas, Vaszi, Yekk</set>
