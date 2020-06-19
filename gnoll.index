@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="gnollrace.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-FINAL-FINAL/master/gnollrace.xml" />
+		<file name="gnoll-race.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-FINAL-FINAL/master/gnoll-race.xml" />
 	</files>
 </index>
