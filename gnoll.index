@@ -8,5 +8,6 @@
 	</info>
 	<files>
 		<file name="gnoll-race.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-FINAL-FINAL/master/gnoll-race.xml" />
+		<file name="UAranger.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-FINAL-FINAL/master/UAranger.xml" />
 	</files>
 </index>
